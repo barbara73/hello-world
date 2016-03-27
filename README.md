@@ -1,2 +1,6 @@
 # hello-world
-try github
+
+Hello
+
+I am new to Github. I like coding in C++.
+
